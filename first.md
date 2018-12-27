@@ -10,7 +10,7 @@ Iteration 反复，重述，重要的事，[计算机]循环
 
 render
 
-squaish
+squash
 
 ubiquity
 

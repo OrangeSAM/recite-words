@@ -15,7 +15,7 @@ The English new words i have met every week。
 
 得益于Smartisan OS强大的Idea Pills，我可以很方便的把使用手机中遇到的单词记录起来；随后统一记录到我的每周单词表上。
 
-![Markup_Screenshot_2018-12-27-15-07-55-868_Launche](C:\Users\Sam\Documents\Tencent Files\1792696258\FileRecv\MobileFile\Markup_Screenshot_2018-12-27-15-07-55-868_Launche.png)
+![闪念胶囊e](https://github.com/OrangeSAM/recite-words/raw/master/Img/idea%20pills.png)
 
 
 
@@ -23,5 +23,5 @@ The English new words i have met every week。
 
 背单词我也用过不少，从最开始的沪江开心词场，到后面的扇贝单词、百词斩、知米背单词等，使用下来都没有能像墨墨那样让你沉浸在背单词的环境中的感觉，但这也算是一个相对主观的评价。下图是近期在墨墨上的词汇量测试。刚好落在正态分布的中间...〒▽〒
 
-![Screenshot_2018-12-24-11-54-24-431_墨墨背单词_1](C:\Users\Sam\Documents\Tencent Files\1792696258\FileRecv\MobileFile\Screenshot_2018-12-24-11-54-24-431_墨墨背单词_1.jpg)
+![墨墨背单词](https://github.com/OrangeSAM/recite-words/raw/master/Img/%E5%A2%A8%E5%A2%A8%E8%83%8C%E5%8D%95%E8%AF%8D_1.jpg)
 

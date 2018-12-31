@@ -10,17 +10,15 @@ Iteration 反复，重述，重要的事，[计算机]循环
 
 render
 
-squash
+squish
 
 ubiquity
 
 shader 着色器，着色程序
 
-stumbling adj 摇摇晃晃或跌跌撞撞的
+stumbling 摇摇晃晃或跌跌撞撞的 不顺畅地说
 
-​		v 不顺畅地说
-
-tremendous adj 极大的 巨大的 可怕的 惊人的 极好的
+tremendous 极大的 巨大的 可怕的 惊人的 极好的
 
 versus  对，比较两种不同想法 选择等
 
@@ -87,3 +85,78 @@ bleed
 brood 
 
 blood
+
+term 术语 期限 学期 条款 把...称为
+
+rationale 理论的说明 基本原理 基础理论 根据
+
+encapsulated 有胶囊包裹着的 总结 封装
+
+parameterize 确定什么的参数 用参数表示
+
+lteration 反复 重述 重要的事  [计算机]循环
+
+lump
+
+inoculation
+
+punctuality
+
+refers to
+
+human captical
+
+perplexing
+
+intuitive
+
+novice
+
+blunder
+
+blunt
+
+aviation
+
+aerial
+
+alphanumeric 外国网站注册时用户名规则的提醒
+
+mandalay
+
+capacity
+
+capable
+
+accord 
+
+record
+
+altitude
+
+attitude
+
+belly
+
+bully
+
+clashes
+
+corny
+
+succsessor
+
+prior to
+
+obscure
+
+subclass
+
+compund
+
+deprecated
+
+synyax
+
+semantics
+
